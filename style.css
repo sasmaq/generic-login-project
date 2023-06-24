@@ -1,0 +1,9 @@
+.central-card {
+    width: 500px;
+}
+
+@media (max-width: 767.98px) {
+    .central-card {
+        width: 90%;
+    }
+}
